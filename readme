@@ -1,0 +1,5 @@
+1、在Eclipse上搭建一个项目，基本配置完毕后，开启共享：
+	项目右键-Team-share project-Git-点勾确认（出现？号标志）
+2、建立本地库Local Repository
+	项目右键-Team-Add to Index（出现*号标志）
+	

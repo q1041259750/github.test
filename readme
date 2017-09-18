@@ -1,4 +1,4 @@
-上传操作
+上传项目操作
 1、在Eclipse上搭建一个项目，基本配置完毕后，开启共享：
 	项目右键-Team-share project-Git-点勾确认（出现？号标志）
 2、上传本地库Local Repository
@@ -10,3 +10,8 @@
 			进入https://github.com/官网，登录或注册账号，新建一个中央仓库
 			拿到HTTPS或者SSH（先不用）https://github.com/q1041259750/github.test.git
 	进行与中央仓库的同步
+下载项目操作
+	File-Import-Project from Git-输入HTTPS或者SSH
+修改后上传
+	新建一个Test2，Add to Index然后commit，push，即可
+分支操作

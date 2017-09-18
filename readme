@@ -4,6 +4,9 @@
 2、上传本地库Local Repository
 	项目右键-Team-Add to Index（出现*号标志）--可提交出现+标志
 	项目右键-Team-Commit-Commit（出现 小仓库标志）--文件改变出现>符号标志
-3、上传到GitHub网上库Remote Repository
+3、上传到GitHub中央库Remote Repository
 	项目右键-Remote-Push（再次Commit，本地库同步后上传）
-	
+		先前创建GitHub中央仓库：
+			进入https://github.com/官网，登录或注册账号，新建一个中央仓库
+			拿到HTTPS或者SSH（先不用）https://github.com/q1041259750/github.test.git
+	进行与中央仓库的同步

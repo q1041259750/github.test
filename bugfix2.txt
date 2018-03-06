@@ -1,0 +1,10 @@
+1  abcdefg
+2  higkllm
+3  opqrst
+4  uvwxyz
+5  abcdefg
+6  hijkllm
+7  opqrst
+8  uvwxyz
+9  abcdefg
+10 higklmn
